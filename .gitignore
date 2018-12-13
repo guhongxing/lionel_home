@@ -1,4 +1,10 @@
 .idea
+<<<<<<< HEAD
 .mvn
 target
 .iml
+=======
+*.iml
+.mvn
+target
+>>>>>>> dev
